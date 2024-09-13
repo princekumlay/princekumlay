@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Kailash Kumlay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MMERN+Stack+Enthusiast;Passionate+Coder" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Passionate+Coder" alt="Typing SVG" style="max-width: 100%; height: auto;" />
 </div>
 
 <div align="center">
