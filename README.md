@@ -17,6 +17,15 @@ I'm a Full-Stack Developer specializing in the MERN stack. I enjoy solving compl
 - 📫 How to reach me: princekumlay10@gmail.com
 - ⚡ Fun fact: I love solving coding challenges and have solved over 100 problems on platforms like LeetCode and GeeksforGeeks.
 
+
+## 🌐 Social Media
+<div align="center">
+  <a href="https://www.instagram.com/elliot_princekumblay/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <!-- Add more social media links as needed -->
+</div>
+
 ## 🛠️ Skills
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -51,6 +60,14 @@ I'm a Full-Stack Developer specializing in the MERN stack. I enjoy solving compl
   <img src="https://img.shields.io/badge/DE-000000?style=for-the-badge&logo=datadog&logoColor=white" alt="DE" />
 </div>
 
+## 💻 Coding Platforms
+<div align="center">
+  <a href="https://leetcode.com/u/Kailashkumlay/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <!-- Add more coding platform links as needed -->
+</div>
+
 ## 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=princekumlay&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -71,6 +88,6 @@ I'm a Full-Stack Developer specializing in the MERN stack. I enjoy solving compl
   <!-- Add more social links as needed -->
 </div>
 
-<<!-- <div align="center"> -->
+<!-- <div align="center"> -->
 <!--   <img src="https://raw.githubusercontent.com/princekumlay/princekumlay/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/> -->
 <!-- </div> -->
