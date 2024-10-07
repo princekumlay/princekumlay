@@ -1,93 +1,27 @@
-<div align="center">
-  <h1>Hi there, I'm Kailash Kumlay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<!--   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=FFull-Stack+Developerr;MMERN+Stack+Enthusiastt;Passionate+Coderr" alt="Typing SVG" style="max-width: 100%; height: auto;" /> -->
-</div>
-
-<div align="center">
-  <img src="URL_OF_YOUR_GIF.gif" alt="Coding GIF" />
-</div>
-
-## 🚀 About Me
-I'm a Full-Stack Developer specializing in the MERN stack. I enjoy solving complex problems and building scalable web applications. Recently graduated with a B.Tech in Computer Science and Engineering.
-
-- 🔭 I’m currently working on: Amazon Project.
-- 🌱 I’m currently learning: React and Next Js
-- 👯 I’m looking to collaborate on: Open-source projects
-- 💬 Ask me about: JavaScript, React, Node.js, MongoDB
-- 📫 How to reach me: princekumlay10@gmail.com
-- ⚡ Fun fact: I love solving coding challenges and have solved over 100 problems on platforms like LeetCode and GeeksforGeeks.
+# 💫 About Me:
+I'm a Full-Stack Developer specializing in the MERN stack. I enjoy solving complex problems and building scalable web applications. Recently graduated with a B.Tech in Computer Science and Engineering.<br><br>🔭 I’m currently working on: Amazon Project.<br>🌱 I’m currently learning: React and Next Js<br>👯 I’m looking to collaborate on: Open-source projects<br>💬 Ask me about: JavaScript, React, Node.js, MongoDB<br>📫 How to reach me: princekumlay10@gmail.com<br>⚡ Fun fact: I love solving coding challenges and have solved over 100 problems on platforms like LeetCode and GeeksforGeeks.
 
 
-## 🌐 Social Media
-<div align="center">
-  <a href="https://www.instagram.com/elliot_princekumblay/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <!-- Add more social media links as needed -->
-</div>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/prince.kumblay) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elliot_princekumblay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kailash-kumlay-01312b203) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@KumblayPrince) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Prince-Kumlay) 
 
-## 🛠️ Skills
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" alt="Nodemon" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MongoDB_Compass-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Compass" />
-  <img src="https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-  <img src="https://img.shields.io/badge/Hashing-000000?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashing" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/Middleware-000000?style=for-the-badge&logo=express&logoColor=white" alt="Middleware" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++" />
-  <img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge&logo=algolia&logoColor=white" alt="DSA" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/COA-000000?style=for-the-badge&logo=computer&logoColor=white" alt="COA" />
-  <img src="https://img.shields.io/badge/OS-000000?style=for-the-badge&logo=linux&logoColor=white" alt="OS" />
-  <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
-  <img src="https://img.shields.io/badge/DE-000000?style=for-the-badge&logo=datadog&logoColor=white" alt="DE" />
-</div>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=princekumlay&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=princekumlay&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=princekumlay&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 💻 Coding Platforms
-<div align="center">
-  <a href="https://leetcode.com/u/Kailashkumlay/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <!-- Add more coding platform links as needed -->
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=princekumlay&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princekumlay&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekumlay&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 📫 Connect with Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/kailash-k-01312b203/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/KumblayPrince">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://princekumlay.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-  <!-- Add more social links as needed -->
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=princekumlay&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
-<!-- <div align="center"> -->
-<!--   <img src="https://raw.githubusercontent.com/princekumlay/princekumlay/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/> -->
-<!-- </div> -->
+---
+[![](https://visitcount.itsvg.in/api?id=princekumlay&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
