@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full-Stack Developer specializing in the MERN stack. I enjoy solving complex problems and building scalable web applications. Graduated with  B.Tech in Computer Science and Engineering.<br><br>🔭 I’m currently working on: Meadow Physio Website.<br>🌱 I’m currently learning: React and Next Js<br>👯 I’m looking to collaborate on: Open-source projects<br>💬 Ask me about: JavaScript, React, Node.js, MongoDB<br>📫 How to reach me: princekumlay10@gmail.com<br>⚡ Fun fact: I love solving coding challenges and have solved over 100 problems on platforms like LeetCode and GeeksforGeeks.
+I'm a Full-Stack Developer specializing in the MERN stack. I enjoy solving complex problems and building scalable web applications. Graduated with  B.Tech in Computer Science and Engineering.<br><br>🔭 I’m currently working on: Meadow Physio Website.<br>🌱 I’m currently learning: React and Next Js<br>👯 I’m looking to collaborate on: Open-source projects<br>💬 Ask me about: JavaScript, React, Node.js, MongoDB<br>📫 How to reach me: princekumlay10@gmail.com<br>⚡ Fun fact: I love solving coding challenges and have solved over 200+ problems on platforms like LeetCode and GeeksforGeeks.
 
 
 ## 🌐 Socials:
